@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20 Thoughts At 25
+title: Thoughts At 25
 date: 2021-12-05
 ---
 
