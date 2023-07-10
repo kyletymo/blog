@@ -1,8 +1,8 @@
-----
+---
 layout: post
 title: Workstyle Changes in 2022
 date: 2022-01-10
-----
+---
 
 There are two workstyle changes that I am going to make in 2022:
 
