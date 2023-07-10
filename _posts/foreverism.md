@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foreverism
+title: "Foreverism"
 date: 2020-05-20
 ---
 **Each day we choose whether to live as if we will die tomorrow or that we will live forever.**
