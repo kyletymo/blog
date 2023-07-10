@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can And Can't Fail
+title: "Can And Can't Fail"
 date: 2022-03-14
 ---
 
