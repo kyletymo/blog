@@ -30,15 +30,15 @@ a {
 
 /* Email Widget  */
 
-/* #email-widget iframe { */
-  /* background-color: #D1ffbd */
-  /* width: 50%;
+#email-widget iframe {
+  background-color: #D1ffbd
+  width: 50%;
   height: 5em;
-} */
+}
 
 
 /* My own email widget */
-
+/* 
 #subscribe-form {
   display: flex;
   flex-direction: column;
@@ -65,3 +65,4 @@ a {
   font-size: 16px;
   margin-top: 5px;
 }
+ */
