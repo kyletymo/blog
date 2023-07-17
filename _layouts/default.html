@@ -13,24 +13,27 @@
   		<link href="https://fonts.googleapis.com/css2?family=Parisienne&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
 	</head>
 	<body>
-		<nav>
-    		<ul>
-        		<li><a target="_blank" href="/">Home</a></li>
-        		<li><a target="_blank" href="/posts">Essays</a></li>
-			<li><a target="_blank" href="/resources">Resources</a></li>
-    		</ul>
+		<nav class="nav">
+    			<ul class="menu">
+	        		<li><a target="_blank" href="/">Home</a></li>
+	        		<li><a target="_blank" href="/posts">Essays</a></li>
+				<li><a target="_blank" href="/resources">Resources</a></li>
+    			</ul>
 		</nav>
-		<div class="container">
+	</body>
+		
+	<main>
       
-      {{ content }} 
+      		{{ content }} 
      
-		</div><!-- /.container -->
-		<footer>
+	</main>
+		
+	<footer>
     		<ul>
 			<li><a href="www.twitter.com/kyletymo" target="_blank">Twitter</a></li>
 			<li><a href="www.linkedin.com/in/kyletymo" target="_blank">LinkedIn</a></li>
         		<li><a href="https://github.com/kyletymo" target="_blank">Github</a></li>
 		</ul>
-		</footer>
-	</body>
+	</footer>
+	
 </html>
