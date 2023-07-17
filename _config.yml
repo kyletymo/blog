@@ -1,6 +1,5 @@
 name: Kyle Tymoszewicz
 markdown: kramdown
 permalink: /:title
-url: "https://kyletymo.com"
 plugins: 
 - jekyll-sitemap
