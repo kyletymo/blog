@@ -74,9 +74,9 @@ a:focus,
   width: 75px;
   height: 75px;
   object-fit: cover;
-  /* object-position: 20% 20%; */
-  border-radius: 50%;
+  border-radius: 10px;
   order: -1;
+  /* object-position: 20% 20%; */
 }
 
 /* media queries */
